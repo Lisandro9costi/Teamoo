@@ -13,7 +13,7 @@ function App() {
       <div className="reg">
         <div onClick={check} className="carta">
           <div className="linea"></div>
-          <img src="public/Cora.png" alt="Corazón" className="corazon" />
+          <img src="/cora.png" alt="Corazón" className="corazon" />
           <div className="linea"></div>
         </div>
 
